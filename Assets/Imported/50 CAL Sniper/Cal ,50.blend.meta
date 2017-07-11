@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 57b250fc4bd3a5c42809ef68b3b62352
+timeCreated: 1471266214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bullet
+    100004: Bullet_001
+    100006: Bullet_002
+    100008: Bullet_003
+    100010: Bullet_004
+    100012: Bullet_005
+    100014: Bullet_006
+    100016: Bullet_007
+    100018: Bullet_008
+    100020: Bullet_009
+    100022: Bullet_010
+    100024: Bullet_011
+    100026: Bullet_012
+    100028: Bullet_013
+    100030: Bullet_014
+    100032: Bullet_015
+    100034: Bullet_016
+    100036: Bullet_017
+    100038: Bullet_018
+    100040: //RootNode
+    100042: Cal__50
+    100044: Mag
+    100046: Mag2
+    100048: PLANO
+    100050: Sight
+    400000: Body
+    400002: Bullet
+    400004: Bullet_001
+    400006: Bullet_002
+    400008: Bullet_003
+    400010: Bullet_004
+    400012: Bullet_005
+    400014: Bullet_006
+    400016: Bullet_007
+    400018: Bullet_008
+    400020: Bullet_009
+    400022: Bullet_010
+    400024: Bullet_011
+    400026: Bullet_012
+    400028: Bullet_013
+    400030: Bullet_014
+    400032: Bullet_015
+    400034: Bullet_016
+    400036: Bullet_017
+    400038: Bullet_018
+    400040: //RootNode
+    400042: Cal__50
+    400044: Mag
+    400046: Mag2
+    400048: PLANO
+    400050: Sight
+    2300000: Body
+    2300002: Bullet
+    2300004: Bullet_001
+    2300006: Bullet_002
+    2300008: Bullet_003
+    2300010: Bullet_004
+    2300012: Bullet_005
+    2300014: Bullet_006
+    2300016: Bullet_007
+    2300018: Bullet_008
+    2300020: Bullet_009
+    2300022: Bullet_010
+    2300024: Bullet_011
+    2300026: Bullet_012
+    2300028: Bullet_013
+    2300030: Bullet_014
+    2300032: Bullet_015
+    2300034: Bullet_016
+    2300036: Bullet_017
+    2300038: Bullet_018
+    2300040: Mag
+    2300042: Mag2
+    2300044: PLANO
+    2300046: Sight
+    3300000: Body
+    3300002: Bullet
+    3300004: Bullet_001
+    3300006: Bullet_002
+    3300008: Bullet_003
+    3300010: Bullet_004
+    3300012: Bullet_005
+    3300014: Bullet_006
+    3300016: Bullet_007
+    3300018: Bullet_008
+    3300020: Bullet_009
+    3300022: Bullet_010
+    3300024: Bullet_011
+    3300026: Bullet_012
+    3300028: Bullet_013
+    3300030: Bullet_014
+    3300032: Bullet_015
+    3300034: Bullet_016
+    3300036: Bullet_017
+    3300038: Bullet_018
+    3300040: Mag
+    3300042: Mag2
+    3300044: PLANO
+    3300046: Sight
+    4300000: PLANO
+    4300002: Mag2
+    4300004: Bullet_018
+    4300006: Bullet_017
+    4300008: Bullet_016
+    4300010: Bullet_015
+    4300012: Bullet_014
+    4300014: Bullet_013
+    4300016: Bullet_012
+    4300018: Bullet_011
+    4300020: Bullet_010
+    4300022: Bullet_009
+    4300024: Bullet_008
+    4300026: Mag
+    4300028: Bullet_007
+    4300030: Bullet_006
+    4300032: Bullet_005
+    4300034: Bullet_004
+    4300036: Bullet_003
+    4300038: Bullet_002
+    4300040: Bullet_001
+    4300042: Bullet
+    4300044: Sight
+    4300046: Body
+    6400000: Body
+    6400002: Bullet
+    6400004: Bullet_001
+    6400006: Bullet_002
+    6400008: Bullet_003
+    6400010: Bullet_004
+    6400012: Bullet_005
+    6400014: Bullet_006
+    6400016: Bullet_007
+    6400018: Bullet_008
+    6400020: Bullet_009
+    6400022: Bullet_010
+    6400024: Bullet_011
+    6400026: Bullet_012
+    6400028: Bullet_013
+    6400030: Bullet_014
+    6400032: Bullet_015
+    6400034: Bullet_016
+    6400036: Bullet_017
+    6400038: Bullet_018
+    6400040: Mag
+    6400042: Mag2
+    6400044: PLANO
+    6400046: Sight
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
